@@ -1,0 +1,6 @@
+C:\Users\Utshab\Documents\CsharpSpring20-21\OOP2_SEC-M_Final\StudentInfoSln\StudentInfo\bin\Debug\StudentInfo.exe.config
+C:\Users\Utshab\Documents\CsharpSpring20-21\OOP2_SEC-M_Final\StudentInfoSln\StudentInfo\bin\Debug\StudentInfo.exe
+C:\Users\Utshab\Documents\CsharpSpring20-21\OOP2_SEC-M_Final\StudentInfoSln\StudentInfo\bin\Debug\StudentInfo.pdb
+C:\Users\Utshab\Documents\CsharpSpring20-21\OOP2_SEC-M_Final\StudentInfoSln\StudentInfo\obj\Debug\StudentInfo.csprojResolveAssemblyReference.cache
+C:\Users\Utshab\Documents\CsharpSpring20-21\OOP2_SEC-M_Final\StudentInfoSln\StudentInfo\obj\Debug\StudentInfo.exe
+C:\Users\Utshab\Documents\CsharpSpring20-21\OOP2_SEC-M_Final\StudentInfoSln\StudentInfo\obj\Debug\StudentInfo.pdb
