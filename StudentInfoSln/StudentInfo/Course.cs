@@ -74,11 +74,11 @@ namespace StudentInfo
         }
         public void ShowInfo()
         {
-            Console.WriteLine("****************");
+            Console.WriteLine(" Course Details ");
             Console.WriteLine("Course Name: " + Name);
             Console.WriteLine("Course ID: " + CourseId);
             Console.WriteLine("Course Total Students: ({0}/{1})", TotalStudents, MaxStudentLimit);
-            Console.WriteLine("***************");
+            
         }
     }
 }

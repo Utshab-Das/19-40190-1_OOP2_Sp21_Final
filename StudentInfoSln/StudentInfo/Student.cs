@@ -107,11 +107,11 @@ namespace StudentInfo
         }
         public void ShowInfo()
         {
-            Console.WriteLine("****************");
+            Console.WriteLine(" ##Sudent Details## ");
             Console.WriteLine("Student Name: " + name);
             Console.WriteLine("Student ID: " + Id);
             Console.WriteLine("Student Department: " + dept.Name);
-            Console.WriteLine("***************");
+            
         }
     }
 }
